@@ -1,5 +1,5 @@
 body{
-    background-color: #050f4a;
+    background-color: #060e3b;
 }
 .navBg{
     background-image: url(../assets/background.jpg);
@@ -19,4 +19,8 @@ body{
 
 .navItems:hover{
     color: #9a9ff5;
+}
+
+p, h1{
+    color: #fff;
 }
