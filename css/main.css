@@ -1,0 +1,15 @@
+.navBg{
+    background-image: url(../assets/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 160px;
+}
+
+.title{
+    color: #9a9ff5;
+}
+
+.navItems{
+    color: #fff;
+}
