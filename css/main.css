@@ -1,3 +1,6 @@
+body{
+    background-color: #050f4a;
+}
 .navBg{
     background-image: url(../assets/background.jpg);
     background-repeat: no-repeat;
@@ -12,4 +15,8 @@
 
 .navItems{
     color: #fff;
+}
+
+.navItems:hover{
+    color: #9a9ff5;
 }
