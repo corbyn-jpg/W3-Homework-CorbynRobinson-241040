@@ -13,3 +13,16 @@ function showMessage(choice) {
         alert("You are wrong");
     }
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+    var images = document.getElementsByTagName('img');
+    var count = 0;
+
+    var i = 0;
+    while (i < images.length) {
+        count++;
+        i++;
+    }
+
+    console.log("Total number of images: " + count);
+});
